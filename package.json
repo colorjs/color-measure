@@ -1,0 +1,30 @@
+{
+  "name": "color-measure",
+  "version": "1.0.0",
+  "description": "Measure color characteristics",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dfcreative/color-measure"
+  },
+  "keywords": [
+    "color",
+    "measure",
+    "luma",
+    "luminosity"
+  ],
+  "author": "Deema Ywanov <df.creative@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfcreative/color-measure/issues"
+  },
+  "homepage": "https://github.com/dfcreative/color-measure",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "color": "^0.8.0",
+    "mocha": "^2.2.5"
+  }
+}
