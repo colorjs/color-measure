@@ -7,7 +7,6 @@ module.exports = {
 	level: require('./level'),
 	isDark: require('./is-dark'),
 	isLight: require('./is-light'),
-	level: require('./level')
 
 	// https://github.com/bgrins/TinyColor#readability
 	// readable,
