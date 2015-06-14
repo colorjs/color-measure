@@ -12,11 +12,14 @@ luma(color); //0.78
 
 ## Metrics
 
-* [luminance](http://www.w3.org/TR/WCAG20/#relativeluminancedef) (aka _luminosity_)
-* [contrast](http://www.w3.org/TR/WCAG20/#contrast-ratiodef)
-* [level]()
-* [is-dark](http://24ways.org/2010/calculating-color-contrast)
-* [is-light](http://24ways.org/2010/calculating-color-contrast)
+* **[luminance](http://www.w3.org/TR/WCAG20/#relativeluminancedef)** (aka _luminosity_) — get relative luminance
+* **[contrast](http://www.w3.org/TR/WCAG20/#contrast-ratiodef)** — measure contrast ratio of two colors
+* **[level](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head)** — measure the readability level of two colors, based on contrast ratio.
+* **[is-dark](http://24ways.org/2010/calculating-color-contrast)** — check whether color is dark via YIQ transform.
+* **[is-light](http://24ways.org/2010/calculating-color-contrast)** — check whether color is dark via YIQ transform.
+* [sugest measure](http://github.com/dfcreative/color-manipulate/issues/new/)
+
+<!--
 * [ ] [tone]()
 * [ ] [readable]()
 * [ ] [sepia]()
@@ -25,7 +28,8 @@ luma(color); //0.78
 * **nearest(colors)** — return nearest color from the passed list
 * **difference(color)** — return color difference between the passed color
 * **equal()** — whether passed color equals to the initial one.
-* [sugest measure](http://github.com/dfcreative/color-manipulate/issues/new/)
+-->
+
 
 
 ## Related
