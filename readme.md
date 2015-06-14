@@ -6,8 +6,8 @@ A collection of color metric functions.
 `$ npm install color-measure`
 
 ```js
-var luma = require('color-measure/luma');
-luma(color); //0.78
+var luma = require('color-measure/luminance');
+luminance(color); //0.78
 ```
 
 ## Metrics
