@@ -12,8 +12,8 @@ luminance(color); //0.78
 
 ## Metrics
 
-* **[luminance](http://www.w3.org/TR/WCAG20/#relativeluminancedef)** (aka _luminosity_) — get relative luminance
-* **[contrast](http://www.w3.org/TR/WCAG20/#contrast-ratiodef)** — measure contrast ratio of two colors
+* **[luminance](http://www.w3.org/TR/WCAG20/#relativeluminancedef)** (aka _luminosity_) — get relative luminance.
+* **[contrast](http://www.w3.org/TR/WCAG20/#contrast-ratiodef)** — measure contrast ratio of two colors.
 * **[level](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head)** — measure the readability level of two colors, based on contrast ratio.
 * **[is-dark](http://24ways.org/2010/calculating-color-contrast)** — check whether color is dark via YIQ transform.
 * **[is-light](http://24ways.org/2010/calculating-color-contrast)** — check whether color is dark via YIQ transform.
