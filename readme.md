@@ -1,5 +1,7 @@
 # color-measure [![Build Status](https://travis-ci.org/dfcreative/color-measure.svg?branch=master)](https://travis-ci.org/dfcreative/color-measure) [![Code Climate](https://codeclimate.com/github/dfcreative/color-measure/badges/gpa.svg)](https://codeclimate.com/github/dfcreative/color-measure)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/colorjs/color-measure.svg)](https://greenkeeper.io/)
+
 A collection of color metric functions.
 
 
